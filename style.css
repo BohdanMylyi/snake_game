@@ -1,0 +1,19 @@
+.body {
+    background-color:#bbd791;
+}
+
+.canvas {
+    display: block;
+    border: 2px solid;
+    margin: 0 auto;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.points {
+    width: 200px;
+    text-align: center;
+    margin: 10px auto;
+    border: 2px solid;
+    border-radius: 20px;
+}
